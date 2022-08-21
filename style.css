@@ -1,0 +1,11 @@
+.clr-gradient-primary {
+  background-color: hsla(274, 90%, 59%, 1);
+  background-image: radial-gradient(
+      at 98% 4%,
+      hsla(346, 76%, 61%, 1) 0px,
+      transparent 50%
+    ),
+    radial-gradient(at 1% 2%, hsla(195, 94%, 73%, 1) 0px, transparent 50%),
+    radial-gradient(at 97% 97%, hsla(27, 94%, 73%, 1) 0px, transparent 50%),
+    radial-gradient(at 5% 90%, hsla(201, 85%, 54%, 1) 0px, transparent 50%);
+}
