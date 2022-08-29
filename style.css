@@ -1,3 +1,16 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+select {
+  border: none;
+  -webkit-appearance: none !important;
+  -moz-appearance: none;
+  appearance: none !important;
+  -ms-appearance: none;
+}
+
 .clr-gradient-primary {
   background-color: hsla(274, 90%, 59%, 1);
   background-image: radial-gradient(
