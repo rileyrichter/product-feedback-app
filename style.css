@@ -4,10 +4,9 @@
 }
 
 select {
-  border: none;
-  -webkit-appearance: none !important;
+  appearance: none;
+  -webkit-appearance: none;
   -moz-appearance: none;
-  appearance: none !important;
   -ms-appearance: none;
 }
 
